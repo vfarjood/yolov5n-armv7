@@ -1,0 +1,3 @@
+/home/pi/dev/code/yolov5-arm/build/CMakeFiles/rebuild_cache.dir
+/home/pi/dev/code/yolov5-arm/build/CMakeFiles/app.dir
+/home/pi/dev/code/yolov5-arm/build/CMakeFiles/edit_cache.dir

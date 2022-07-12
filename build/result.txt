@@ -1,0 +1,51 @@
+Traffic Status: Low
+Number of Cars: 8
+*****************
+ID: 0
+Type: car
+Lane Number: 2
+Distance: 8
+Speed: 2.66667
+---------------------
+ID: 1
+Type: car
+Lane Number: 1
+Distance: 0
+Speed: 0
+---------------------
+ID: 2
+Type: car
+Lane Number: 1
+Distance: 18.4391
+Speed: 6.14636
+---------------------
+ID: 3
+Type: bus
+Lane Number: 3
+Distance: 85.6154
+Speed: 28.5385
+---------------------
+ID: 4
+Type: car
+Lane Number: 3
+Distance: 0
+Speed: 0
+---------------------
+ID: 5
+Type: car
+Lane Number: 0
+Distance: 0
+Speed: 0
+---------------------
+ID: 6
+Type: bus
+Lane Number: 5
+Distance: 104.403
+Speed: 34.801
+---------------------
+ID: 7
+Type: car
+Lane Number: 2
+Distance: 0
+Speed: 0
+---------------------
